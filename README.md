@@ -14,3 +14,9 @@ Code in the repository does the job to hijack the `ReadFile` and `WriteFile` API
 
 
 In theory, code included will also work with other 32bit version PE.
+
+## Question and Answer
+
+Q: How to get every open notepad.exe injected and the new ones as well?
+
+A: Try to solve it with a infinite loop. 
